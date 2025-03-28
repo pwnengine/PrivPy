@@ -1,7 +1,9 @@
 # PrivPy
 Python Script That Takes Advantage of Windows Services For Privileged Escalation. 
 
-https://ibb.co/wF7v1b0d
+https://i.ibb.co/XrDwTd2W/2025-03-28-13-39.png
 
-https://ibb.co/PshSC0t1
+https://i.ibb.co/bjBfdD7N/2025-03-28-13-40.png
+
+
 
